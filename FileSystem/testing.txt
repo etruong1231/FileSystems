@@ -1,0 +1,43 @@
+in
+cr lu
+cr ab
+cr cd
+cr df
+cr haha
+cr ha
+cr hags
+cr ags
+cr rune
+cr blll
+dr
+op rune
+wr 1 x 60
+wr 1 y 10
+op lu
+wr 1 x 10
+sk 1 0
+rd 1 65
+cl 2
+de ab
+de cd
+de df
+de haha
+de ha
+de lu
+de rune
+cr lu
+cr ab
+cr cd
+cr df
+cr haha
+cr ha
+cr hags
+cr ags
+cr rune
+cr blll
+sv save.txt
+
+cr ten
+cr men
+in save.txt
+cr ten
